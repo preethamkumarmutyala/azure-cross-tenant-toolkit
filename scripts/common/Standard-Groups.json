@@ -1,0 +1,9 @@
+{
+  "CommonGroups": [
+    "External-All-Tenant-Network-Global-Admins",
+    "External-Tenant-All-CloudEng-Global-Admins",
+    "GSO-External-All-Tenant-Global-Admin",
+    "GSO-External-All-Tenant-Global-Reader",
+    "GSO-JIT-All-Tenant-Viewer-Azure"
+  ]
+}
